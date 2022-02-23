@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @acurrado
+- 👀 I’m interested in angular and java.
+- 🌱 I’m currently learning microservices using spring boot.
+- 💞️ I’m looking to collaborate on frontend and backend apps.
+- 📫 How to reach me andrescurrado@gmail.com
